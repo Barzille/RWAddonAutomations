@@ -7,3 +7,4 @@ This script can be used to create rwaddons files for RW6. Drag one or more Stack
 
 - If you drag "foo.stack" onto it, it will create a foo.rwaddons file
 - If you drag "foo.stack" and "bar.stack" onto it, it will create "archive.rwaddons" including both Stack files for installation
+- The files are created on your desktop in the folder RW6Addons 
